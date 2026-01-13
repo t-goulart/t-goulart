@@ -1,4 +1,4 @@
-# Olá, eu sou o Tiago Almeida Goulart 👋
+# Olá, eu sou o Tiago 👋
 
 ### Analista de People Analytics Sr. | Especialista em Automação & Engenharia de Dados
 
